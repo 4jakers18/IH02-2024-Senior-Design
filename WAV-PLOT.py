@@ -24,4 +24,4 @@ def plot_wave(file_name):
         plt.show()
 
 # Replace 'example.wav' with the path to your WAV file
-plot_wave('CantinaBand3.wav')
+plot_wave('24vamp_sine_input.wav')
